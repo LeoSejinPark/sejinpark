@@ -10,6 +10,6 @@ citation: 'Park, S., Soh, J. & Lee, H. Super.FELT: supervised feature extraction
 ---
 Drug response prediction
 
-[Download paper here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04146-z)
+[Download paper here](https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-021-04146-z.pdf?pdf=button%20sticky)
 
 Recommended citation: Park, S., Soh, J. & Lee, H. Super.FELT: supervised feature extraction learning using triplet loss for drug response prediction with multi-omics data. BMC Bioinformatics 22, 269 (2021).
