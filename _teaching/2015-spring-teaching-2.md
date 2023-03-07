@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant in \"Data Structure\""
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Dongguk University, Department of Computer Science and Engineering"
+date: 2018-09-01
+location: "Seoul, South Korea"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
