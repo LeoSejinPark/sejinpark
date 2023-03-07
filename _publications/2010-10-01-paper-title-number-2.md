@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "HIDTI: integration of heterogeneous information to predict drug-target interactions"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'Drug-Target interactions prediction'
+date: 2022-01-01
+venue: 'Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-022-07608-3.pdf'
+citation: 'Soh, J., Park, S. & Lee, H. HIDTI: integration of heterogeneous information to predict drug-target interactions. Sci Rep 12, 3793 (2022).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Drug-Target interactions prediction
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.nature.com/articles/s41598-022-07608-3.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Soh, J., Park, S. & Lee, H. HIDTI: integration of heterogeneous information to predict drug-target interactions. Sci Rep 12, 3793 (2022).
