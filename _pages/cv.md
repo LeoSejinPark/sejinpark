@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download paper here](https://leosejinpark.github.io/sejinpark/files/CV_of_Sejin_Park.pdf)
 Education
 ======
 * B.S. in Computer Science and Engineering, Seoul, South Korea, Dongguk University, 2016

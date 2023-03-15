@@ -11,4 +11,4 @@ Hi! My name is Park, Sejin who is studying Bioinformatics at Gwangju Institute o
 
 Getting started
 ======
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://leosejinpark.github.io/sejinpark/files/CV_of_Sejin_Park.pdf. 
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://leosejinpark.github.io/sejinpark/files/CV_of_Sejin_Park.pdf.
