@@ -7,12 +7,3 @@ venue: "Gwangju Institute of Science and Technology, School of Computer Science 
 date: 2022-09-01
 location: "Gwangju, South Korea"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

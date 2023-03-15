@@ -7,12 +7,3 @@ venue: "Dongguk University, Department of Computer Science and Engineering"
 date: 2019-03-01
 location: "Seoul, South Korea"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
