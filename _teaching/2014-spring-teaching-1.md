@@ -8,8 +8,6 @@ date: 2019-03-01
 location: "Seoul, South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Heading 1
 ======
 
